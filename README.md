@@ -1,4 +1,4 @@
-# MIS 311-Individual Assignment: Shoe Price
+# MIS 311-Part 1:Data Analysis and Insight-Shoe Price
 # 1. Data overview
 - **Source**: The dataset appears to be a compilation of shoe inventory or sales data, likely sourced from a retail or e-commerce platform, as it includes details on shoe brands, colors, sizes, and prices.
 - **Number of rows & column**: The dataset contains 203 rows (including the header) and 4 columns: brand, color, size, and price.
